@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "cloud-fundamentals-demo",
+  "private_key_id": "e3bd37b893151e01a69245dde1d7e2f2726f6dfa",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQC+maxPvpDOY/Jp\nENKL0yU8SkobON+ynJHpFNsN4lHNwbqsYsB0fy+sW61b9Y04IUdWClHRFD0z+IWW\nRPN1hpn8NiIxCInqdPTHnk6ER6uuP4eDu6Q9Je/aEYoIqB5chpLhZ1efUeZVByWf\ngp0nPLcpqJqXGQA6tRhc7gZJfmSs95LLO97/n5hWOkRTo/VnXGEmAB+eWxmx1cJR\n2gUVw+MIvZXzPiOd76rptxgw21p2vlMXoMxaGr+4SIwaGMo5MItuMrBeu7xR2JiB\nOUx5jZNttpxDA9sRRrk3K02vyFdcIv33aYQVB5g7zQgPXbqxTwLCrj8GlyZKGQkc\ntUCRNYZZAgMBAAECggEAH/ES/n46OExpqI/oKQSmndb5WlyKqJ0ymrQjDc2a1fec\neB1IkX1rGOB4Sgv5salqEhJCqd5Rb287u/YsMsru7WSJEFyU+FTHXNi74dE9BUOi\nS0JcAN9ltc7wqgi6pdjrrpiqB4orJp6/AF9cROIY9ANMfPv0nOIShihhp1lmN9Iv\nbnomliIWiw60yhvHDt+57s2q0vnCkYILmSTWoZs+5TpEv1ZcCtH6XDbUGOaxpOaq\nKbV29d92LTKoM2pkHbXH+lwBvexhbWXSlCDzOY4j4yw0+dWc5OV3UsrfjCjB1pU1\nsAwVjMVyKFjEEu5lJ5rEMrGjTxYUqPWinKvhmmExbQKBgQDtRPOvAfkkn9qmyJE/\nYTL8UBp8DuJtIeTNBGDhRNHEUK8M0NkRNS/WEG7r5xKfnoJRgw66IiOc9DzBNDu8\nlxaQ2MfMElqStkOoquCn6eJNEO/OM+hdrK/ynPXL3TGg23h2U7Xm8zpOZq/cEVrw\nNI+jDtJlaMkUucvoCeYMTaTKRwKBgQDNpZJymcGpLeUbscyMPVap+vGmzwVOb28+\nF2j4CDC9KSuaLqcYxK23YcwAAgV1snGXbHEM5XdDShk7gDNCiq23i18wPWmXlWYu\nGJnIVA9gKGxFMGbga4DWTnN0L61ApUh2sCFoS2KDPyuo+xYcppC23dd3y8i2qJr9\nizX9RcLaXwKBgQCMnpXxvbCj9R2IRUxYDMpD4VGg/s1RMopAu3yTZc8Qk2T7qndL\njIMaUkj7BMrz0OSZXJwI0pzas6GiO8u/nKfiFqhrGOGXG/CDcSqOOb5GQGhvhDIN\n+n+YwU+nkCOOmyQMtNYU10hSGOfW/G4x+GS8ldc6BN1PrEHd9qfh2M52lwKBgQCM\nVPpUvdvLyQfZGEGPSaREJnyU6hyi46Qz6OG2sFAiJWAdvMxGOKCazV/aeYakRHsD\na/rRZB04i+4gDmHsfJoC8Faqop3V1Rt/RUZb0BEV+z+3D0qExpeKpspedNJzlNaY\nN6T0eMzm50qx63WxY3DJeSU6GJQFIZVyg3b6OIq5XQKBgQCgHeRNEznn0q9d2xsF\nilnk6lW9Xd6jrEuVdm2bxxaUSa7n0bcG1Kynd9BcytRn4I4fSCZuxHhymFnhzg2w\nK4CktuVuGCWYn3x2hJlG6WB5kPX6/eZHXuQJJyxRmseQGVGg1vMrzBorcJ//65K8\nrySuRgcwL4ELibik/05nTlPMIw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "cloud-fundamentals-demo@cloud-fundamentals-demo.iam.gserviceaccount.com",
+  "client_id": "104884613677393480287",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/cloud-fundamentals-demo%40cloud-fundamentals-demo.iam.gserviceaccount.com"
+}
