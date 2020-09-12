@@ -9,10 +9,10 @@
   "author": "serverless.com",
   "license": "MIT",
   "dependencies": {
-    "node-fetch": "^2.6.0"
+    "node-fetch": "^2.6.1"
   },
   "devDependencies": {
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.1",
     "serverless-google-cloudfunctions": "^3.0.0"
   }
 }
