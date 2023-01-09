@@ -11,7 +11,7 @@
     "serverless"
   ],
   "dependencies": {
-    "serverless-offline": "^6.1.4"
+    "serverless-offline": "^12.0.4"
   },
   "devDependencies": {
     "serverless-azure-functions": "^1.0.2"
